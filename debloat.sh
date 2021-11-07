@@ -9,3 +9,4 @@ pm uninstall --user 0 com.sec.android.app.music
 
 pm uninstall --user 0 com.samsung.android.messaging
 pm uninstall --user 0 com.sec.phone
+pm uninstall --user 0 com.sec.android.app.sbrowser
