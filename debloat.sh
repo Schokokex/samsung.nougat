@@ -1,189 +1,189 @@
 
 
 
-# pm uninstall --user 0 com.google.android.gms
-# pm uninstall --user 0 com.google.android.gms
-# pm uninstall --user 0 com.google.android.gsf
-# pm uninstall --user 0 com.google.android.gsf
-# pm uninstall --user 0 com.google.android.packageinstaller
-# pm uninstall --user 0 com.google.android.packageinstaller
-# pm uninstall --user 0 com.samsung.android.themecenter
-# pm uninstall --user 0 com.samsung.android.themecenter
-# pm uninstall --user 0 com.samsung.android.themestore
-# pm uninstall --user 0 com.samsung.android.themestore
-# pm uninstall --user 0 com.samsung.upsmtheme
-pm uninstall --user 0 com.android.chrome         
-pm uninstall --user 0 com.android.stk 
-pm uninstall --user 0 com.android.stk2
-pm uninstall --user 0 com.android.vending
-pm uninstall --user 0 com.dsi.ant.plugins.antplus
-pm uninstall --user 0 com.dsi.ant.sample.acquirechannels
-pm uninstall --user 0 com.dsi.ant.server
-pm uninstall --user 0 com.dsi.ant.service.socket
-pm uninstall --user 0 com.ebay.mobile            
-pm uninstall --user 0 com.enhance.gameservice                                                      
-pm uninstall --user 0 com.facebook.appmanager
-pm uninstall --user 0 com.facebook.katana
-pm uninstall --user 0 com.facebook.system
-pm uninstall --user 0 com.gd.mobicore.pa     
-pm uninstall --user 0 com.google.android.apps.docs
-pm uninstall --user 0 com.google.android.apps.maps
-pm uninstall --user 0 com.google.android.apps.photos
-pm uninstall --user 0 com.google.android.backuptransport
-pm uninstall --user 0 com.google.android.configupdater
-pm uninstall --user 0 com.google.android.ext.services
-pm uninstall --user 0 com.google.android.ext.shared
-pm uninstall --user 0 com.google.android.feedback
-pm uninstall --user 0 com.google.android.gm
-pm uninstall --user 0 com.google.android.googlequicksearchbox
-pm uninstall --user 0 com.google.android.gsf.login
-pm uninstall --user 0 com.google.android.music
-pm uninstall --user 0 com.google.android.onetimeinitializer
-pm uninstall --user 0 com.google.android.partnersetup
-pm uninstall --user 0 com.google.android.printservice.recommendation
-pm uninstall --user 0 com.google.android.setupwizard
-pm uninstall --user 0 com.google.android.syncadapters.calendar
-pm uninstall --user 0 com.google.android.syncadapters.contacts
-pm uninstall --user 0 com.google.android.talk
-pm uninstall --user 0 com.google.android.tts
-pm uninstall --user 0 com.google.android.videos
-pm uninstall --user 0 com.google.android.webview
-pm uninstall --user 0 com.google.android.youtube
-pm uninstall --user 0 com.microsoft.office.excel
-pm uninstall --user 0 com.microsoft.office.onenote
-pm uninstall --user 0 com.microsoft.office.powerpoint
-pm uninstall --user 0 com.microsoft.office.word
-pm uninstall --user 0 com.microsoft.skydrive
-pm uninstall --user 0 com.osp.app.signin
-pm uninstall --user 0 com.samsung.SMT
-pm uninstall --user 0 com.samsung.aasaservice
-pm uninstall --user 0 com.samsung.advp.imssettings
-pm uninstall --user 0 com.samsung.android.MtpApplication
-pm uninstall --user 0 com.samsung.android.SettingsReceiver
-pm uninstall --user 0 com.samsung.android.allshare.service.fileshare
-pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
-pm uninstall --user 0 com.samsung.android.app.accesscontrol
-pm uninstall --user 0 com.samsung.android.app.appupdater
-pm uninstall --user 0 com.samsung.android.app.assistantmenu
-pm uninstall --user 0 com.samsung.android.app.colorblind
-pm uninstall --user 0 com.samsung.android.app.filterinstaller
-pm uninstall --user 0 com.samsung.android.app.galaxyfinder
-pm uninstall --user 0 com.samsung.android.app.memo
-pm uninstall --user 0 com.samsung.android.app.mirrorlink
-pm uninstall --user 0 com.samsung.android.app.scrollcapture
-pm uninstall --user 0 com.samsung.android.app.simplesharing
-pm uninstall --user 0 com.samsung.android.app.soundpicker
-pm uninstall --user 0 com.samsung.android.app.talkback
-pm uninstall --user 0 com.samsung.android.app.watchmanagerstub
-pm uninstall --user 0 com.samsung.android.bbc.bbcagent
-pm uninstall --user 0 com.samsung.android.beaconmanager
-pm uninstall --user 0 com.samsung.android.calendar
-pm uninstall --user 0 com.samsung.android.clipboarduiservice
-pm uninstall --user 0 com.samsung.android.communicationservice
-pm uninstall --user 0 com.samsung.android.contacts
-pm uninstall --user 0 com.samsung.android.coreapps
-pm uninstall --user 0 com.samsung.android.dlp.service
-pm uninstall --user 0 com.samsung.android.drivelink.stub
-pm uninstall --user 0 com.samsung.android.easysetup
-pm uninstall --user 0 com.samsung.android.email.provider
-pm uninstall --user 0 com.samsung.android.email.provider
-pm uninstall --user 0 com.samsung.android.fmm
-pm uninstall --user 0 com.samsung.android.framework.res
-pm uninstall --user 0 com.samsung.android.game.gamehome
-pm uninstall --user 0 com.samsung.android.game.gametools
-pm uninstall --user 0 com.samsung.android.incallui
-pm uninstall --user 0 com.samsung.android.intelligenceservice2
-pm uninstall --user 0 com.samsung.android.keyguardwallpaperupdator
-pm uninstall --user 0 com.samsung.android.location
-pm uninstall --user 0 com.samsung.android.lool
-pm uninstall --user 0 com.samsung.android.mdm
-pm uninstall --user 0 com.samsung.android.messaging
-pm uninstall --user 0 com.samsung.android.networkdiagnostic
-pm uninstall --user 0 com.samsung.android.oneconnect
-pm uninstall --user 0 com.samsung.android.provider.filterprovider
-pm uninstall --user 0 com.samsung.android.provider.shootingmodeprovider
-pm uninstall --user 0 com.samsung.android.providers.context
-pm uninstall --user 0 com.samsung.android.scloud
-pm uninstall --user 0 com.samsung.android.sdk.handwriting
-pm uninstall --user 0 com.samsung.android.sdk.professionalaudio.app.audioconnectionservice
-pm uninstall --user 0 com.samsung.android.sdk.professionalaudio.utility.jammonitor
-pm uninstall --user 0 com.samsung.android.securitylogagent
-pm uninstall --user 0 com.samsung.android.sm
-pm uninstall --user 0 com.samsung.android.sm.devicesecurity
-pm uninstall --user 0 com.samsung.android.sm.policy
-pm uninstall --user 0 com.samsung.android.sm.provider
-pm uninstall --user 0 com.samsung.android.smartface
-pm uninstall --user 0 com.samsung.android.svcagent
-pm uninstall --user 0 com.samsung.android.tzdata.update
-pm uninstall --user 0 com.samsung.android.uds
-pm uninstall --user 0 com.samsung.android.universalswitch
-pm uninstall --user 0 com.samsung.android.video
-pm uninstall --user 0 com.samsung.android.videolist
-pm uninstall --user 0 com.samsung.android.voicewakeup
-pm uninstall --user 0 com.samsung.android.weather
-pm uninstall --user 0 com.samsung.app.newtrim
-pm uninstall --user 0 com.samsung.clipboardsaveservice
-pm uninstall --user 0 com.samsung.cmh
-pm uninstall --user 0 com.samsung.crane
-pm uninstall --user 0 com.samsung.dcmservice
-pm uninstall --user 0 com.samsung.hs20provider
-pm uninstall --user 0 com.samsung.klmsagent
-pm uninstall --user 0 com.samsung.knox.appsupdateagent
-pm uninstall --user 0 com.samsung.knox.rcp.components
-pm uninstall --user 0 com.samsung.knox.securefolder
-pm uninstall --user 0 com.samsung.rcs
-pm uninstall --user 0 com.samsung.safetyinformation
-pm uninstall --user 0 com.samsung.sec.android.application.csc
-pm uninstall --user 0 com.samsung.storyservice
-pm uninstall --user 0 com.samsung.svoice.sync
-pm uninstall --user 0 com.samsung.ucs.agent.boot
-pm uninstall --user 0 com.samsung.voiceserviceplatform
-pm uninstall --user 0 com.sec.android.app.DataCreate
-pm uninstall --user 0 com.sec.android.app.SecSetupWizard
-pm uninstall --user 0 com.sec.android.app.applinker
-pm uninstall --user 0 com.sec.android.app.billing
-pm uninstall --user 0 com.sec.android.app.bluetoothtest
-pm uninstall --user 0 com.sec.android.app.camera
-pm uninstall --user 0 com.sec.android.app.chromecustomizations
-pm uninstall --user 0 com.sec.android.app.clockpackage
-pm uninstall --user 0 com.sec.android.app.dictionary  
-pm uninstall --user 0 com.sec.android.app.easylauncher
-pm uninstall --user 0 com.sec.android.app.factorykeystring
-pm uninstall --user 0 com.sec.android.app.fm
-pm uninstall --user 0 com.sec.android.app.hwmoduletest
-pm uninstall --user 0 com.sec.android.app.launcher
-pm uninstall --user 0 com.sec.android.app.magnifier
-pm uninstall --user 0 com.sec.android.app.music
-pm uninstall --user 0 com.sec.android.app.myfiles
-pm uninstall --user 0 com.sec.android.app.parser
-pm uninstall --user 0 com.sec.android.app.personalization
-pm uninstall --user 0 com.sec.android.app.popupcalculator
-pm uninstall --user 0 com.sec.android.app.ringtoneBR
-pm uninstall --user 0 com.sec.android.app.safetyassurance
-pm uninstall --user 0 com.sec.android.app.samsungapps
-pm uninstall --user 0 com.sec.android.app.sbrowser
-pm uninstall --user 0 com.sec.android.app.servicemodeapp
-pm uninstall --user 0 com.sec.android.app.shealth
-pm uninstall --user 0 com.sec.android.app.simsettingmgr
-pm uninstall --user 0 com.sec.android.app.soundalive
-pm uninstall --user 0 com.sec.android.app.sysscope
-pm uninstall --user 0 com.sec.android.app.voicenote
-pm uninstall --user 0 com.sec.android.app.wlantest
-pm uninstall --user 0 com.sec.android.daemonapp  
-pm uninstall --user 0 com.sec.android.easyMover.Agent
-pm uninstall --user 0 com.sec.android.inputmethod
-pm uninstall --user 0 com.sec.android.omc
-pm uninstall --user 0 com.sec.android.service.health
-pm uninstall --user 0 com.sec.android.widgetapp.samsungapps
-pm uninstall --user 0 com.sec.app.samsungprintservice
-pm uninstall --user 0 com.sec.enterprise.knox.attestation
-pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
-pm uninstall --user 0 com.sec.knox.foldercontainer
-pm uninstall --user 0 com.sec.knox.knoxsetupwizardclient
-pm uninstall --user 0 com.sec.knox.switcher
-pm uninstall --user 0 com.sec.knox.switcher  
-pm uninstall --user 0 com.sec.phone
-pm uninstall --user 0 com.skype.raider                           
-pm uninstall --user 0 de.axelspringer.yana.zeropage
-pm uninstall --user 0 flipboard.boxer.app
-pm uninstall --user 0 org.simalliance.openmobileapi.service 
+# adb shell pm uninstall --user 0 com.google.android.gms
+# adb shell pm uninstall --user 0 com.google.android.gms
+# adb shell pm uninstall --user 0 com.google.android.gsf
+# adb shell pm uninstall --user 0 com.google.android.gsf
+# adb shell pm uninstall --user 0 com.google.android.packageinstaller
+# adb shell pm uninstall --user 0 com.google.android.packageinstaller
+# adb shell pm uninstall --user 0 com.samsung.android.themecenter
+# adb shell pm uninstall --user 0 com.samsung.android.themecenter
+# adb shell pm uninstall --user 0 com.samsung.android.themestore
+# adb shell pm uninstall --user 0 com.samsung.android.themestore
+# adb shell pm uninstall --user 0 com.samsung.upsmtheme
+adb shell pm uninstall --user 0 com.android.chrome         
+adb shell pm uninstall --user 0 com.android.stk 
+adb shell pm uninstall --user 0 com.android.stk2
+adb shell pm uninstall --user 0 com.android.vending
+adb shell pm uninstall --user 0 com.dsi.ant.plugins.antplus
+adb shell pm uninstall --user 0 com.dsi.ant.sample.acquirechannels
+adb shell pm uninstall --user 0 com.dsi.ant.server
+adb shell pm uninstall --user 0 com.dsi.ant.service.socket
+adb shell pm uninstall --user 0 com.ebay.mobile            
+adb shell pm uninstall --user 0 com.enhance.gameservice                                                      
+adb shell pm uninstall --user 0 com.facebook.appmanager
+adb shell pm uninstall --user 0 com.facebook.katana
+adb shell pm uninstall --user 0 com.facebook.system
+adb shell pm uninstall --user 0 com.gd.mobicore.pa     
+adb shell pm uninstall --user 0 com.google.android.apps.docs
+adb shell pm uninstall --user 0 com.google.android.apps.maps
+adb shell pm uninstall --user 0 com.google.android.apps.photos
+adb shell pm uninstall --user 0 com.google.android.backuptransport
+adb shell pm uninstall --user 0 com.google.android.configupdater
+adb shell pm uninstall --user 0 com.google.android.ext.services
+adb shell pm uninstall --user 0 com.google.android.ext.shared
+adb shell pm uninstall --user 0 com.google.android.feedback
+adb shell pm uninstall --user 0 com.google.android.gm
+adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
+adb shell pm uninstall --user 0 com.google.android.gsf.login
+adb shell pm uninstall --user 0 com.google.android.music
+adb shell pm uninstall --user 0 com.google.android.onetimeinitializer
+adb shell pm uninstall --user 0 com.google.android.partnersetup
+adb shell pm uninstall --user 0 com.google.android.printservice.recommendation
+adb shell pm uninstall --user 0 com.google.android.setupwizard
+adb shell pm uninstall --user 0 com.google.android.syncadapters.calendar
+adb shell pm uninstall --user 0 com.google.android.syncadapters.contacts
+adb shell pm uninstall --user 0 com.google.android.talk
+adb shell pm uninstall --user 0 com.google.android.tts
+adb shell pm uninstall --user 0 com.google.android.videos
+adb shell pm uninstall --user 0 com.google.android.webview
+adb shell pm uninstall --user 0 com.google.android.youtube
+adb shell pm uninstall --user 0 com.microsoft.office.excel
+adb shell pm uninstall --user 0 com.microsoft.office.onenote
+adb shell pm uninstall --user 0 com.microsoft.office.powerpoint
+adb shell pm uninstall --user 0 com.microsoft.office.word
+adb shell pm uninstall --user 0 com.microsoft.skydrive
+adb shell pm uninstall --user 0 com.osp.app.signin
+adb shell pm uninstall --user 0 com.samsung.SMT
+adb shell pm uninstall --user 0 com.samsung.aasaservice
+adb shell pm uninstall --user 0 com.samsung.advp.imssettings
+adb shell pm uninstall --user 0 com.samsung.android.MtpApplication
+adb shell pm uninstall --user 0 com.samsung.android.SettingsReceiver
+adb shell pm uninstall --user 0 com.samsung.android.allshare.service.fileshare
+adb shell pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
+adb shell pm uninstall --user 0 com.samsung.android.app.accesscontrol
+adb shell pm uninstall --user 0 com.samsung.android.app.appupdater
+adb shell pm uninstall --user 0 com.samsung.android.app.assistantmenu
+adb shell pm uninstall --user 0 com.samsung.android.app.colorblind
+adb shell pm uninstall --user 0 com.samsung.android.app.filterinstaller
+adb shell pm uninstall --user 0 com.samsung.android.app.galaxyfinder
+adb shell pm uninstall --user 0 com.samsung.android.app.memo
+adb shell pm uninstall --user 0 com.samsung.android.app.mirrorlink
+adb shell pm uninstall --user 0 com.samsung.android.app.scrollcapture
+adb shell pm uninstall --user 0 com.samsung.android.app.simplesharing
+adb shell pm uninstall --user 0 com.samsung.android.app.soundpicker
+adb shell pm uninstall --user 0 com.samsung.android.app.talkback
+adb shell pm uninstall --user 0 com.samsung.android.app.watchmanagerstub
+adb shell pm uninstall --user 0 com.samsung.android.bbc.bbcagent
+adb shell pm uninstall --user 0 com.samsung.android.beaconmanager
+adb shell pm uninstall --user 0 com.samsung.android.calendar
+adb shell pm uninstall --user 0 com.samsung.android.clipboarduiservice
+adb shell pm uninstall --user 0 com.samsung.android.communicationservice
+adb shell pm uninstall --user 0 com.samsung.android.contacts
+adb shell pm uninstall --user 0 com.samsung.android.coreapps
+adb shell pm uninstall --user 0 com.samsung.android.dlp.service
+adb shell pm uninstall --user 0 com.samsung.android.drivelink.stub
+adb shell pm uninstall --user 0 com.samsung.android.easysetup
+adb shell pm uninstall --user 0 com.samsung.android.email.provider
+adb shell pm uninstall --user 0 com.samsung.android.email.provider
+adb shell pm uninstall --user 0 com.samsung.android.fmm
+adb shell pm uninstall --user 0 com.samsung.android.framework.res
+adb shell pm uninstall --user 0 com.samsung.android.game.gamehome
+adb shell pm uninstall --user 0 com.samsung.android.game.gametools
+adb shell pm uninstall --user 0 com.samsung.android.incallui
+adb shell pm uninstall --user 0 com.samsung.android.intelligenceservice2
+adb shell pm uninstall --user 0 com.samsung.android.keyguardwallpaperupdator
+adb shell pm uninstall --user 0 com.samsung.android.location
+adb shell pm uninstall --user 0 com.samsung.android.lool
+adb shell pm uninstall --user 0 com.samsung.android.mdm
+adb shell pm uninstall --user 0 com.samsung.android.messaging
+adb shell pm uninstall --user 0 com.samsung.android.networkdiagnostic
+adb shell pm uninstall --user 0 com.samsung.android.oneconnect
+adb shell pm uninstall --user 0 com.samsung.android.provider.filterprovider
+adb shell pm uninstall --user 0 com.samsung.android.provider.shootingmodeprovider
+adb shell pm uninstall --user 0 com.samsung.android.providers.context
+adb shell pm uninstall --user 0 com.samsung.android.scloud
+adb shell pm uninstall --user 0 com.samsung.android.sdk.handwriting
+adb shell pm uninstall --user 0 com.samsung.android.sdk.professionalaudio.app.audioconnectionservice
+adb shell pm uninstall --user 0 com.samsung.android.sdk.professionalaudio.utility.jammonitor
+adb shell pm uninstall --user 0 com.samsung.android.securitylogagent
+adb shell pm uninstall --user 0 com.samsung.android.sm
+adb shell pm uninstall --user 0 com.samsung.android.sm.devicesecurity
+adb shell pm uninstall --user 0 com.samsung.android.sm.policy
+adb shell pm uninstall --user 0 com.samsung.android.sm.provider
+adb shell pm uninstall --user 0 com.samsung.android.smartface
+adb shell pm uninstall --user 0 com.samsung.android.svcagent
+adb shell pm uninstall --user 0 com.samsung.android.tzdata.update
+adb shell pm uninstall --user 0 com.samsung.android.uds
+adb shell pm uninstall --user 0 com.samsung.android.universalswitch
+adb shell pm uninstall --user 0 com.samsung.android.video
+adb shell pm uninstall --user 0 com.samsung.android.videolist
+adb shell pm uninstall --user 0 com.samsung.android.voicewakeup
+adb shell pm uninstall --user 0 com.samsung.android.weather
+adb shell pm uninstall --user 0 com.samsung.app.newtrim
+adb shell pm uninstall --user 0 com.samsung.clipboardsaveservice
+adb shell pm uninstall --user 0 com.samsung.cmh
+adb shell pm uninstall --user 0 com.samsung.crane
+adb shell pm uninstall --user 0 com.samsung.dcmservice
+adb shell pm uninstall --user 0 com.samsung.hs20provider
+adb shell pm uninstall --user 0 com.samsung.klmsagent
+adb shell pm uninstall --user 0 com.samsung.knox.appsupdateagent
+adb shell pm uninstall --user 0 com.samsung.knox.rcp.components
+adb shell pm uninstall --user 0 com.samsung.knox.securefolder
+adb shell pm uninstall --user 0 com.samsung.rcs
+adb shell pm uninstall --user 0 com.samsung.safetyinformation
+adb shell pm uninstall --user 0 com.samsung.sec.android.application.csc
+adb shell pm uninstall --user 0 com.samsung.storyservice
+adb shell pm uninstall --user 0 com.samsung.svoice.sync
+adb shell pm uninstall --user 0 com.samsung.ucs.agent.boot
+adb shell pm uninstall --user 0 com.samsung.voiceserviceplatform
+adb shell pm uninstall --user 0 com.sec.android.app.DataCreate
+adb shell pm uninstall --user 0 com.sec.android.app.SecSetupWizard
+adb shell pm uninstall --user 0 com.sec.android.app.applinker
+adb shell pm uninstall --user 0 com.sec.android.app.billing
+adb shell pm uninstall --user 0 com.sec.android.app.bluetoothtest
+adb shell pm uninstall --user 0 com.sec.android.app.camera
+adb shell pm uninstall --user 0 com.sec.android.app.chromecustomizations
+adb shell pm uninstall --user 0 com.sec.android.app.clockpackage
+adb shell pm uninstall --user 0 com.sec.android.app.dictionary  
+adb shell pm uninstall --user 0 com.sec.android.app.easylauncher
+adb shell pm uninstall --user 0 com.sec.android.app.factorykeystring
+adb shell pm uninstall --user 0 com.sec.android.app.fm
+adb shell pm uninstall --user 0 com.sec.android.app.hwmoduletest
+adb shell pm uninstall --user 0 com.sec.android.app.launcher
+adb shell pm uninstall --user 0 com.sec.android.app.magnifier
+adb shell pm uninstall --user 0 com.sec.android.app.music
+adb shell pm uninstall --user 0 com.sec.android.app.myfiles
+adb shell pm uninstall --user 0 com.sec.android.app.parser
+adb shell pm uninstall --user 0 com.sec.android.app.personalization
+adb shell pm uninstall --user 0 com.sec.android.app.popupcalculator
+adb shell pm uninstall --user 0 com.sec.android.app.ringtoneBR
+adb shell pm uninstall --user 0 com.sec.android.app.safetyassurance
+adb shell pm uninstall --user 0 com.sec.android.app.samsungapps
+adb shell pm uninstall --user 0 com.sec.android.app.sbrowser
+adb shell pm uninstall --user 0 com.sec.android.app.servicemodeapp
+adb shell pm uninstall --user 0 com.sec.android.app.shealth
+adb shell pm uninstall --user 0 com.sec.android.app.simsettingmgr
+adb shell pm uninstall --user 0 com.sec.android.app.soundalive
+adb shell pm uninstall --user 0 com.sec.android.app.sysscope
+adb shell pm uninstall --user 0 com.sec.android.app.voicenote
+adb shell pm uninstall --user 0 com.sec.android.app.wlantest
+adb shell pm uninstall --user 0 com.sec.android.daemonapp  
+adb shell pm uninstall --user 0 com.sec.android.easyMover.Agent
+adb shell pm uninstall --user 0 com.sec.android.inputmethod
+adb shell pm uninstall --user 0 com.sec.android.omc
+adb shell pm uninstall --user 0 com.sec.android.service.health
+adb shell pm uninstall --user 0 com.sec.android.widgetapp.samsungapps
+adb shell pm uninstall --user 0 com.sec.app.samsungprintservice
+adb shell pm uninstall --user 0 com.sec.enterprise.knox.attestation
+adb shell pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
+adb shell pm uninstall --user 0 com.sec.knox.foldercontainer
+adb shell pm uninstall --user 0 com.sec.knox.knoxsetupwizardclient
+adb shell pm uninstall --user 0 com.sec.knox.switcher
+adb shell pm uninstall --user 0 com.sec.knox.switcher  
+adb shell pm uninstall --user 0 com.sec.phone
+adb shell pm uninstall --user 0 com.skype.raider                           
+adb shell pm uninstall --user 0 de.axelspringer.yana.zeropage
+adb shell pm uninstall --user 0 flipboard.boxer.app
+adb shell pm uninstall --user 0 org.simalliance.openmobileapi.service 
