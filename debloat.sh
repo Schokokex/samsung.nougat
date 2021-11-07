@@ -54,7 +54,7 @@ adb shell pm uninstall --user 0 com.microsoft.office.onenote
 adb shell pm uninstall --user 0 com.microsoft.office.powerpoint
 adb shell pm uninstall --user 0 com.microsoft.office.word
 adb shell pm uninstall --user 0 com.microsoft.skydrive
-adb shell pm uninstall --user 0 com.osp.app.signin
+# adb shell pm uninstall --user 0 com.osp.app.signin
 adb shell pm uninstall --user 0 com.samsung.SMT
 adb shell pm uninstall --user 0 com.samsung.aasaservice
 adb shell pm uninstall --user 0 com.samsung.advp.imssettings
