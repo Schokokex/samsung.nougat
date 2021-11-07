@@ -1,3 +1,6 @@
+
+
+
 # pm uninstall --user 0 com.google.android.gms
 # pm uninstall --user 0 com.google.android.gms
 # pm uninstall --user 0 com.google.android.gsf
@@ -10,6 +13,8 @@
 # pm uninstall --user 0 com.samsung.android.themestore
 # pm uninstall --user 0 com.samsung.upsmtheme
 pm uninstall --user 0 com.android.chrome         
+pm uninstall --user 0 com.android.stk 
+pm uninstall --user 0 com.android.stk2
 pm uninstall --user 0 com.android.vending
 pm uninstall --user 0 com.dsi.ant.plugins.antplus
 pm uninstall --user 0 com.dsi.ant.sample.acquirechannels
@@ -164,6 +169,7 @@ pm uninstall --user 0 com.sec.android.app.soundalive
 pm uninstall --user 0 com.sec.android.app.sysscope
 pm uninstall --user 0 com.sec.android.app.voicenote
 pm uninstall --user 0 com.sec.android.app.wlantest
+pm uninstall --user 0 com.sec.android.daemonapp  
 pm uninstall --user 0 com.sec.android.easyMover.Agent
 pm uninstall --user 0 com.sec.android.inputmethod
 pm uninstall --user 0 com.sec.android.omc
@@ -175,14 +181,9 @@ pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
 pm uninstall --user 0 com.sec.knox.foldercontainer
 pm uninstall --user 0 com.sec.knox.knoxsetupwizardclient
 pm uninstall --user 0 com.sec.knox.switcher
+pm uninstall --user 0 com.sec.knox.switcher  
 pm uninstall --user 0 com.sec.phone
 pm uninstall --user 0 com.skype.raider                           
 pm uninstall --user 0 de.axelspringer.yana.zeropage
 pm uninstall --user 0 flipboard.boxer.app
 pm uninstall --user 0 org.simalliance.openmobileapi.service 
-
-pm uninstall --user 0 com.sec.knox.switcher  
-
-pm uninstall --user 0 com.sec.android.daemonapp  
-pm uninstall --user 0 com.android.stk 
-pm uninstall --user 0 com.android.stk2
