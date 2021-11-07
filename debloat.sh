@@ -147,3 +147,16 @@ pm uninstall --user 0 com.sec.knox.switcher
 pm uninstall --user 0 com.sec.phone
 pm uninstall --user 0 com.skype.raider                           
 pm uninstall --user 0 de.axelspringer.yana.zeropage
+
+pm uninstall --user 0 com.dsi.ant.service.socket
+pm uninstall --user 0 com.dsi.ant.sample.acquirechannels
+pm uninstall --user 0 com.dsi.ant.plugins.antplus
+pm uninstall --user 0 com.dsi.ant.server
+
+pm uninstall --user 0 com.sec.android.app.dictionary  
+pm uninstall --user 0 com.osp.app.signin
+pm uninstall --user 0 com.sec.android.app.billing
+pm uninstall --user 0 com.sec.android.easyMover.Agent
+pm uninstall --user 0 com.sec.android.inputmethod
+pm uninstall --user 0 com.sec.android.omc
+
