@@ -160,3 +160,7 @@ pm uninstall --user 0 com.sec.android.easyMover.Agent
 pm uninstall --user 0 com.sec.android.inputmethod
 pm uninstall --user 0 com.sec.android.omc
 
+pm uninstall --user 0 flipboard.boxer.app
+pm uninstall --user 0 org.simalliance.openmobileapi.service 
+pm uninstall --user 0 com.enhance.gameservice                                                      
+pm uninstall --user 0 com.gd.mobicore.pa     
